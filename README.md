@@ -16,7 +16,7 @@ Project created with:
 ### Cloning
 Go to the Terminal, choose a directory where you wish to clone the repository and run:
 ```bash
-git clone git@github.com:Francisco-Webdeveloper/Flex-panel-gallery.git
+git clone git@github.com:Francisco-Webdeveloper/Hold-Shift-and-check-Checkboxes.git
 ```
 
 ### Local Server
