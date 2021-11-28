@@ -3,7 +3,7 @@
 ## Background & Objectives
 When a user clicks a checkbox, holds Shift, and then clicks another checkbox a few rows down, all the checkboxes inbetween those two checkboxes should be checked.
 
-
+https://user-images.githubusercontent.com/67716187/143780678-86fbb3d8-7a57-4d5d-bb09-9e5b4fd947cf.mov
 
 ## Technologies
 Project created with:
